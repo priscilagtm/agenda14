@@ -1,0 +1,38 @@
+<!Doctype HTML>
+<lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pontos turísticos de São Carlos</title>
+    <link rel="stylesheet" href="3w.css">
+
+</head>
+<body>
+ <div class="container">
+    <h1>Pontos turísticos de São Carlos</h1>
+    <p>São Carlos é uma cidade localizada no estado de São Paulo, Brasil, conhecida por sua rica história, cultura e pontos turísticos. Aqui estão alguns dos principais pontos turísticos de São Carlos:</p>
+
+    <h2>1. Museu de Ciência Prof. Mário Tolentino</h2>
+    <p>O Museu de Ciência Prof. Mário Tolentino é um espaço dedicado à divulgação científica e tecnológica. Ele oferece exposições interativas, atividades educativas e eventos relacionados à ciência, atraindo visitantes de todas as idades.</p>
+
+    <h2>2. Parque Ecológico de São Carlos</h2>
+    <p>O Parque Ecológico de São Carlos é um local ideal para os amantes da natureza. Com trilhas para caminhada, áreas de piquenique e uma variedade de flora e fauna, o parque é um ótimo lugar para relaxar e apreciar a beleza natural.</p>
+
+    <h2>3. Teatro Municipal Dr. Alderico Vieira Perdigão</h2>
+    <p>O Teatro Municipal Dr. Alderico Vieira Perdigão é um importante centro cultural da cidade, onde são realizados diversos eventos artísticos, como peças teatrais, concertos e apresentações de dança.</p>
+
+    <h2>4. Catedral de São Carlos Borromeu</h2>
+    <p>A Catedral de São Carlos Borromeu é um dos marcos históricos da cidade. Com sua arquitetura imponente e belos vitrais, a catedral é um local de culto e também um ponto turístico que atrai visitantes interessados em história e arte sacra.</p>
+
+    <h2>5. Praça do Mercado</h2>
+    <p>A Praça do Mercado é um local vibrante onde os moradores locais se reúnem para comprar produtos frescos, artesanato e desfrutar da culinária local. É um ótimo lugar para experimentar a cultura local e interagir com os habitantes da cidade.</p>
+
+    <h2>6. Universidade Federal de São Carlos (UFSCar)</h2>
+    <p>A UFSCar é uma instituição de ensino superior renomada que também possui um campus aberto ao público. Os visitantes podem explorar os jardins, participar de eventos culturais e conhecer as instalações acadêmicas.</p>
+
+    <h2>7. Museu do Café</h2>
+    <p>O Museu do Café é dedicado à história e cultura do café, uma das principais commodities do Brasil. O museu oferece exposições sobre a produção de café, degustações e eventos relacionados ao tema.</p>
+</div>
+</body>
+</html>
+
